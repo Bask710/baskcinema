@@ -1,10 +1,10 @@
 {
-  "title": "Michael",
+  "title": "chucky",
   "duration": 0,
   "live": true,
   "sources": [
     {
-      "url": "https://shirt-variations-standings-alignment.trycloudflare.com/baskcinema/index.m3u8",
+      "url": "https://ferry-mind-impressive-boulevard.trycloudflare.com",
       "contentType": "application/x-mpegURL",
       "quality": 1080
     }
